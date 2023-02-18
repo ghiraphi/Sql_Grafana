@@ -20,7 +20,6 @@ ORDER BY creation_timestamp DESC
 )
 select sum(raznica) from tabla
 
-
 '''
 пример SQL-запроса PostgreSQL для отображения точности работы словаря по заданной теме за период
 показывает точность словаря за каждый день
